@@ -51,5 +51,5 @@ angular.controller("demo", function ($scope, $http) {
     <ANY when-scrolled="more()" >
     </ANY>
     <div ng-show='loading'>Loading Data ...</div>
-<div>
+</div>
 ```
